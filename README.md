@@ -22,7 +22,4 @@ Software Developer in Training. Young Colombian man seeking to grow professional
 ![](https://github-contributor-stats.vercel.app/api?username=DavidFG16&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DavidFG16&icon=5&color=0)](https://visitcount.itsvg.in)![banner_github](https://github.com/user-attachments/assets/5b40e4c9-631f-482a-9291-dca474f07c51)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
