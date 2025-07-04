@@ -1,5 +1,4 @@
-![Header](https://github.com/user-attachments/assets/14045b3e-daee-4a5c-922e-48cd512e4833)
-
+![Header](./header.png)
 
 
 # 💫 About Me:
