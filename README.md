@@ -1,4 +1,4 @@
-![Header](./header.png)
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/a545d2bc-df35-424e-b1dd-d7fbe2beeda1" />
 
 
 # 💫 About Me:
