@@ -3,6 +3,9 @@
 
 
 ## 👨‍💻 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=DevOps+Engineer+in+Progress;Cloud+Enthusiast;Automation+Driven+Mindset;Building+Scalable+Systems" />
+</p>
 
 Hi, I'm David → a Software Developer from Colombia with a growing passion for DevOps and Cloud Engineering.
 
