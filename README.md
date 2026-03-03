@@ -84,20 +84,20 @@ I’m constantly learning, experimenting and building. Aiming to grow into roles
 
 </p>
 
-
-
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DavidFG16&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=DavidFG16&theme=codeSTACKr&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidFG16&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Insights
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DavidFG16&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidFG16&theme=tokyonight" width="810"/>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DavidFG16&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DavidFG16&theme=tokyonight&hide_border=true" height="190"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavidFG16&theme=tokyonight" height="190"/>
+</p>
 
----
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
