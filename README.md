@@ -9,20 +9,15 @@ Software Developer in Training. Young Colombian man seeking to grow professional
 
 <p align="left">
   <a href="https://linkedin.com/in/davidfgamboa" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40"/></a>
   <a href="https://instagram.com/davidfgamboa" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" width="40" />
-  </a>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" width="40"/></a>
   <a href="https://twitch.tv/ItzGamboa_" target="_blank">
-    <img src="https://cdn.simpleicons.org/twitch/9146FF" height="40" width="40" />
-  </a>
+    <img src="https://cdn.simpleicons.org/twitch/9146FF" height="40" width="40"/></a>
   <a href="https://youtube.com/@davidgamboa201" target="_blank">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="40" width="40" />
-  </a>
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="40" width="40"/></a>
   <a href="mailto:albertogamboacotte7@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" width="40" />
-  </a>
+    <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" width="40"/></a>
 </p>
 
 
