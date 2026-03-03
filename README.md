@@ -2,8 +2,16 @@
 
 
 
-# 💫 About Me:
-Software Developer in Training. Young Colombian man seeking to grow professionally, passionate for coding and ready to make a difference.<br>
+## 👨‍💻 About Me
+
+Hi, I'm David → a Software Developer from Colombia with a growing passion for DevOps and Cloud Engineering.
+
+Over the past few months, I’ve been intentionally shifting my focus toward infrastructure, automation, and scalable systems. I’m currently deepening my knowledge in DevOps practices, CI/CD pipelines, containerization, Infrastructure as Code, and cloud-native architectures.
+
+My goal is to become a DevOps Engineer who not only understands how to build applications, but also how to design, automate, and operate resilient systems in the cloud.
+
+I’m constantly learning, experimenting and building. Aiming to grow into roles where I can contribute to high-impact infrastructure and platform engineering teams.
+
 
 ## 🌐 Socials:
 
