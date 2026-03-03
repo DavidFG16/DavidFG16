@@ -88,6 +88,22 @@ I’m constantly learning, experimenting and building. Aiming to grow into roles
 </p>
 
 ---
+## ⭐ Featured Projects
+
+<p align="center">
+  <a href="https://github.com/DavidFG16/aws-titanfolio-alb-ec2-boto3">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DavidFG16&repo=aws-titanfolio-alb-ec2-boto3&theme=react&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/DavidFG16/aws-ecr-github-actions-ci-cd">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DavidFG16&repo=aws-ecr-github-actions-ci-cd&theme=react&bg_color=0D1117" />
+  </a>
+</p>
+
+
+
+
+
+---
 
 # 📊 GitHub Insights
 
