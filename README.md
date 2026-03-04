@@ -1,7 +1,5 @@
 <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/978864de-9926-499a-a9b0-e48ca74dceb2" />
 
-
-
 ## 👨‍💻 About Me
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=DevOps+Engineer+in+Progress;Cloud+Enthusiast;Automation+Driven+Mindset;Building+Scalable+Systems" />
@@ -31,10 +29,6 @@ I’m constantly learning, experimenting and building. Aiming to grow into roles
     <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" width="40"/></a>
 </p>
 
-
-
-
-
 # 💻 Tech Stack:
 
 ## ⚙️ DevOps
@@ -54,7 +48,6 @@ I’m constantly learning, experimenting and building. Aiming to grow into roles
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/>
 
 </p>
-
 
 ---
 
@@ -92,31 +85,21 @@ I’m constantly learning, experimenting and building. Aiming to grow into roles
 
 <p align="center">
   <a href="https://github.com/DavidFG16/aws-titanfolio-alb-ec2-boto3">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DavidFG16&repo=aws-titanfolio-alb-ec2-boto3&theme=react&bg_color=0D1117" />
-  </a>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DavidFG16&repo=aws-titanfolio-alb-ec2-boto3&theme=react&bg_color=0D1117" /></a>
   <a href="https://github.com/DavidFG16/aws-ecr-github-actions-ci-cd">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DavidFG16&repo=aws-ecr-github-actions-ci-cd&theme=react&bg_color=0D1117" />
   </a>
 </p>
-
-
-
-
 
 ---
 
 # 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidFG16&theme=tokyonight" width="810"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidFG16&theme=rose_pine" width="810"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DavidFG16&theme=tokyonight&hide_border=true" height="190"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavidFG16&theme=tokyonight" height="190"/>
+  <img src="https://streak-stats.demolab.com?user=DavidFG16&theme=rose_pine&hide_border=true" height="190"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavidFG16&theme=rose_pine" height="190"/>
 </p>
-
-
-
-
-
