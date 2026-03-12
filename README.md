@@ -86,11 +86,13 @@ I’m constantly learning, experimenting and building. Aiming to grow into roles
 
 <p align="center">
   <a href="https://github.com/DavidFG16/aws-titanfolio-alb-ec2-boto3">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DavidFG16&repo=aws-titanfolio-alb-ec2-boto3&theme=react&bg_color=0D1117" /></a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DavidFG16&repo=aws-titanfolio-alb-ec2-boto3&theme=react&bg_color=0D1117&title_color=61dafb&text_color=ffffff&icon_color=61dafb"/></a>
   <a href="https://github.com/DavidFG16/aws-ecr-github-actions-ci-cd">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DavidFG16&repo=aws-ecr-github-actions-ci-cd&theme=react&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DavidFG16&repo=aws-ecr-github-actions-ci-cd&theme=react&bg_color=0D1117&title_color=61dafb&text_color=ffffff&icon_color=61dafb"/>
   </a>
 </p>
+
+
 
 ---
 
