@@ -16,84 +16,22 @@ I’m constantly learning, experimenting and building. Aiming to grow into roles
 
 
 ## 🌐 Socials:
-
-<table border="0">
-  <tr>
-    <td border="0">
-      <a href="https://linkedin.com/in/davidfgamboa" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40"/>
-      </a>
-    </td>
-    <td border="0">
-      <a href="https://instagram.com/davidfgamboa" target="_blank">
-        <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" width="40"/>
-      </a>
-    </td>
-    <td border="0">
-      <a href="https://twitch.tv/ItzGamboa_" target="_blank">
-        <img src="https://cdn.simpleicons.org/twitch/9146FF" height="40" width="40"/>
-      </a>
-    </td>
-    <td border="0">
-      <a href="https://youtube.com/@davidgamboa201" target="_blank">
-        <img src="https://cdn.simpleicons.org/youtube/FF0000" height="40" width="40"/>
-      </a>
-    </td>
-    <td border="0">
-      <a href="mailto:albertogamboacotte7@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" width="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/davidfgamboa)
+[![Gmail](https://readmecodegen.vercel.app/api/social-icon?name=gmail&size=48)](mailto:albertogamboacotte7@gmail.com)
+[![Instagram](https://readmecodegen.vercel.app/api/social-icon?name=instagram&size=48)](https://instagram.com/davidfgamboa)
+[![YouTube](https://readmecodegen.vercel.app/api/social-icon?name=youtube&size=48)](https://youtube.com/@davidgamboa201)
 
 # 💻 Tech Stack:
 ## ⚙️ DevOps
-<table border="0">
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="40"/></td>
-    <td><img src="https://logo.svgcdn.com/logos/github-actions.svg" height="40" width="40" alt="GitHub Actions"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/></td>
-  </tr>
-</table>
+[![DevOps Skills](https://skillicons.dev/icons?i=aws,githubactions,gitlab,jenkins,docker,kubernetes,terraform,ansible,linux,bash,git)](https://skillicons.dev)
 
 ---
 ## 🚀 Development
-<table border="0">
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="40"/></td>
-  </tr>
-</table>
+[![Dev Skills](https://skillicons.dev/icons?i=html,css,js,python,php,laravel,mysql,postgresql,android)](https://skillicons.dev)
 
 ---
 ## 🧰 Others
-<table border="0">
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40"/></td>
-    <td><img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" width="40"/></td>
-    <td><img src="https://cdn.simpleicons.org/notion/000000" height="40" width="40"/></td>
-    <td><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="40" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="40"/></td>
-    <td><img src="https://cdn.simpleicons.org/spotify/1ED760" height="40" width="40"/></td>
-  </tr>
-</table>
+[![Other Skills](https://skillicons.dev/icons?i=vscode,postman,notion,figma,photoshop,spotify)](https://skillicons.dev)
 
 ---
 ## ⭐ Featured Projects
