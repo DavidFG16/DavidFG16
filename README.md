@@ -17,8 +17,8 @@ I’m constantly learning, experimenting and building. Aiming to grow into roles
 
 ## 🌐 Socials:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/davidfgamboa)
-[![Gmail](https://readmecodegen.vercel.app/api/social-icon?name=gmail&size=48)](mailto:albertogamboacotte7@gmail.com)
-[![Instagram](https://readmecodegen.vercel.app/api/social-icon?name=instagram&size=48)](https://instagram.com/davidfgamboa)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:albertogamboacotte7@gmail.com)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/davidfgamboa)
 [![YouTube](https://readmecodegen.vercel.app/api/social-icon?name=youtube&size=48)](https://youtube.com/@davidgamboa201)
 
 # 💻 Tech Stack:
